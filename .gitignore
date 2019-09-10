@@ -10,3 +10,27 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+
+# Promela
+
+
+build/*
+dist/*
+promela/_version.py
+*parsetab.py
+.coverage
+.DS_Store
+Icon?
+
+*.*~
+__pycache__
+*.pyc
+*.swp
+*.pdf
+*.PDF
+*.txt
+*.log
+*.egg-info
+*.html
+*.css
