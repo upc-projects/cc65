@@ -16,7 +16,6 @@ func sumSlices(slices []int) {
 }
 
 func main() {
-
 	var slice = []int{12, 43, 2, 324, 23, 121}
 	sumSlices(slice)
 }
